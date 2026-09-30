@@ -69,7 +69,7 @@ Lo mismo pasa al añadir lenguajes de programación en "Habilidades". Por ejempl
 ![iconos](img/iconos1.png)
 ### Captura de pantallas
 #### Corriendo en local
-![primera captura](img/captura2.png)
+![primera captura](img/captura 2.png)
 #### Corriendo en pages
 ![captura](img/captura3.png)
 #### Sección de experiencia
