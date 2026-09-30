@@ -68,7 +68,19 @@ Lo mismo pasa al añadir lenguajes de programación en "Habilidades". Por ejempl
 ```
 ![iconos](img/iconos1.png)
 ### Captura de pantallas
-Mañana agregare las capturas de pantalla con mi foto de perfil. Subí el Pages hoy y ya corre en xampp.
-![primera captura](img/captura1.png)
-![prueba 2](img/meme.png)
+#### Corriendo en local
+![primera captura](img/captura2.png)
+#### Corriendo en pages
+![captura](img/captura3.png)
+#### Sección de experiencia
+![captura](img/captura4.png)
+#### Sección de educación
+![captura](img/captura6.png)
+#### Sección de habilidades
+![captura](img/captura7.png)
+#### Sección de intereses
+![captura](img/captura8.png)
+#### Sección de premios y certificaciones
+![captura](img/captura9.png)
+
 #### Elaborado por: David Efraín José Ramos NL 19
